@@ -23,3 +23,8 @@ This simple and stupid method is quite easy to employ, with threats scenarios go
 5. Crowdstrike?
 6. F-Secure?
 7. Varonis?
+
+
+## Recommendations
+EDR vendors should offer their customers a list of dynamically changed telemetry gateways, ranging across the world, in order to try and communicate back in any case of network tampering.
+These dynamic gateways should use a masked and hard to identify addresses to make it harder for attackers to distrupt communications.
