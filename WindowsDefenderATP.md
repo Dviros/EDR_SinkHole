@@ -1,3 +1,5 @@
+![Screenshot of WDATP Live Response](https://raw.githubusercontent.com/Dviros/EDR_SinkHole/master/Screens/WDATP.png)
+
 Blocking the following will remove telemetry upload the remote control, but will allow the machine to show as "Online":
 
 winatp-gw-neu.microsoft.com
