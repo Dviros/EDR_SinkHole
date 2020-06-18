@@ -1,4 +1,3 @@
-Blocking 
-sensors.genuine-mask.my.cbcloud.de
+Blocking the following will not allow any telemetry and remote control from the Carbon Black dashboard:
 
-Will not allow any telemetry and remote control from the Carbon Black dashboard.
+sensors.genuine-mask.my.cbcloud.de
