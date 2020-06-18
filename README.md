@@ -16,13 +16,18 @@ This simple and stupid method is quite easy to employ, with threats scenarios go
 
 
 ## Which EDR's Affected?
-1. Microsoft's Windows Defender ATP
-2. Carbon Black
-3. Endgame?
+1. Microsoft's Windows Defender ATP!
+2. Carbon Black!
+3. Elastic Endpoint (Endgame)?
 4. SentinelOne?
 5. Crowdstrike?
 6. F-Secure?
 7. Varonis?
+8. CORTEX (palo alto)?
+9. CyberReason?
+10. Tenium?
+11. TrendMicro?
+12. McAffee ATP?
 
 
 ## Recommendations
