@@ -21,7 +21,7 @@ This simple and stupid method is quite easy to employ, with threats scenarios go
 1. Microsoft's Windows Defender ATP!
 2. Carbon Black!
 3. Elastic Endpoint (Endgame)?
-4. SentinelOne?
+4. SentinelOne - Not so much!
 5. Crowdstrike?
 6. F-Secure?
 7. Varonis?
