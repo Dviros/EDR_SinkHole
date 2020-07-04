@@ -18,4 +18,4 @@ nlb-*-*-*.elb.*.amazonaws.com
 ```
 
 
-Agents will fallback to try and communicate back directly to the AWS machine hostname. Complete AWS block is possible and may needed if there's no prior knowledge on the target's EDR solution.
+Agents will fallback to try and communicate back directly to the AWS machine hostname. Complete AWS block is possible and may be needed if there's no prior knowledge on the target's EDR solution.
