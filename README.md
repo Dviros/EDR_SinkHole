@@ -18,19 +18,20 @@ This simple and stupid method is quite easy to employ, with threats scenarios go
 
 
 ## Which EDR's Affected?
-1. Microsoft's Windows Defender ATP!
-2. Carbon Black!
-3. Elastic Endpoint (Endgame)?
-4. SentinelOne - Not so much!
-5. Crowdstrike?
-6. F-Secure?
-7. Varonis?
-8. CORTEX (palo alto)?
-9. CyberReason?
-10. Tenium?
-11. TrendMicro?
-12. McAffee ATP?
+1. Microsoft's Windows Defender ATP
+2. Carbon Black
+3. SentinelOne - Not so much
 
+### To be Checked:
+1. Elastic Endpoint (Endgame)?
+2. Crowdstrike?
+3. F-Secure?
+4. Varonis?
+5. CORTEX (palo alto)?
+6. CyberReason?
+7. Tenium?
+8. TrendMicro?
+9. McAffee ATP?
 
 ## Recommendations
 EDR vendors should offer their customers a list of dynamically changed telemetry gateways, ranging across the world, in order to try and communicate back in any case of network tampering.
