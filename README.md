@@ -16,6 +16,7 @@ A triggered EDR alert will not be uploaded and communicated back!
 
 This simple and stupid method is quite easy to employ, with threats scenarios going from a Rogue Wifi or a compromised DNS server.
 
+More information can be found in the relevant page.
 
 ## Which EDR's Affected?
 1. Microsoft's Windows Defender ATP
@@ -35,6 +36,7 @@ This simple and stupid method is quite easy to employ, with threats scenarios go
 
 ## Recommendations
 EDR vendors should offer their customers a list of dynamically changed telemetry gateways, ranging across the world, in order to try and communicate back in any case of network tampering.
+DNS over HTTPS (DoH) support in the products may assist with these type of issues.
 
 These dynamic gateways should use masked and hard to identify addresses to make it harder for attackers to distrupt communications.
 
